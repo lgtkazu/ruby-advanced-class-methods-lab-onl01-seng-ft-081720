@@ -5,7 +5,7 @@ class Song
   @@all = []
 
   def self.all
-@@ -10,4 +12,57 @@ def save
+
     self.class.all << self
   end
 
